@@ -9,4 +9,11 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="about_us">About Us</string>
+    <string name="login">login</string>
+    <string name="todo">TODO</string>
+    <string name="btoomo">TODO</string>
+    <string name="classes" />
+    <string name="classes1">classes</string>
+    <string name="test">test</string>
 </resources>
