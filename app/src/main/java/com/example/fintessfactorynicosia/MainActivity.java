@@ -31,14 +31,12 @@ public class MainActivity extends AppCompatActivity {
                 webView = (WebView) findViewById(R.id.webview);
                 webView.setWebViewClient(new WebViewClient());
                 webView.loadUrl("http://10.0.2.2:3000/about");
-
                 WebSettings webSettings = webView.getSettings();
                 webSettings.setJavaScriptEnabled(true);
                 webSettings.setDomStorageEnabled(true);
                 webSettings.setSupportZoom(true);
                 webSettings.setLoadWithOverviewMode(true);
                 webSettings.setUseWideViewPort(true);
-
                 login.setVisibility(View.INVISIBLE);
                 aboutUs.setVisibility(View.INVISIBLE);
                 logo.setVisibility(View.INVISIBLE);
@@ -54,14 +52,12 @@ public class MainActivity extends AppCompatActivity {
                 webView = (WebView) findViewById(R.id.webview);
                 webView.setWebViewClient(new WebViewClient());
                 webView.loadUrl("http://10.0.2.2:3000/loginAndroid");
-
                 WebSettings webSettings = webView.getSettings();
                 webSettings.setJavaScriptEnabled(true);
                 webSettings.setDomStorageEnabled(true);
                 webSettings.setSupportZoom(true);
                 webSettings.setLoadWithOverviewMode(true);
                 webSettings.setUseWideViewPort(true);
-
                 login.setVisibility(View.INVISIBLE);
                 aboutUs.setVisibility(View.INVISIBLE);
                 logo.setVisibility(View.INVISIBLE);
