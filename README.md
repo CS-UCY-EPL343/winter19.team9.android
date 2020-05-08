@@ -10,7 +10,7 @@ well as the classes page in order to be informed of the running class program of
 #### Deployment link: 
 The following link is the deployment link of the web app, which the android app renders dynamically for some of the 
 information provided.  <br />
-[https://ffnfinal.web.app/](https://ffnfinal.web.app/)
+[https://ffnfinal-21fa1.web.app/](https://ffnfinal-21fa1.web.app/)
 ##### The web application is also responsive and operates normally on mobile devices
 
 ## Getting Started
